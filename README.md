@@ -301,3 +301,5 @@ Throughout this project, I significantly enhanced my SQL skills in several key a
 # Conclusions
 
 This project allowed me to strengthen my SQL skills while gaining meaningful insights into the data analysts job market. By identifying which skills are most in demand and command higher salaries, I have a clearer idea of where to focus my professional development and job search. For aspiring data analysts, staying updated with the most valuable skills and remaining adaptable to industry changes is essential for building a successful career in data analytics.
+
+A big thank you to [Luke Barousse](https://github.com/lukebarousse) for his SQL for Data Analytics course, where I completed this project. His course provided great hands-on learning and helped me gain valuable skills in data analysis using SQL.
