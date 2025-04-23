@@ -45,7 +45,7 @@ LIMIT 10;
 ````
 Insights:
 
-![Top Paying Roles](Assets\1_top_paying_jobs.png)
+![Top Paying Roles](Assets/1_top_paying_jobs.png)
 *Bar Graph Visualizing insights from the top-paying Data Analyst/Engineer jobs in Sri Lanka. This Graph was generated using ChatGPT based on my SQL query results.*
 
 
@@ -91,7 +91,7 @@ ORDER BY
 
 Insights:
 
-![Key Skills in Top Paying Roles](Assets\2_top_paying_jobs_skills.png)
+![Key Skills in Top Paying Roles](Assets/2_top_paying_jobs_skills.png)
 *Here’s a visualization showing the most common skills found in top-paying Data Analyst and Data Engineer jobs in Sri Lanka. This bar chart was Generated using ChatGPT based on my Query results.*
 
 - SQL is the most frequently required skill for top-paying jobs, underlining its essential role in data-related careers.
@@ -124,7 +124,7 @@ LIMIT 5;
 
 Insights:
 
-![Top in Demand Skills](Assets\3_top_demanded_skills.png)
+![Top in Demand Skills](Assets/3_top_demanded_skills.png)
 *This Bar Graph shows the Top In-Demand Skills for Data Analyst Roles in Sri Lanka. This chart was Generated using ChatGPT based on my Query results.*
 
 - SQL is the most in-demand skill, appearing in the highest number of job postings.
@@ -156,7 +156,7 @@ LIMIT 25;
 ```
 Insights:
 
-![Top Paying skills for data analysts](Assets\4_top_paying_skills.png)
+![Top Paying skills for data analysts](Assets/4_top_paying_skills.png)
 *Here’s the chart visualizing the average salaries for top-paying data analyst skills in Sri Lanka. This Bar Chart was Generated using Chatgpt based on my Query results.*
 - Excel tops the list with the highest average salary, showing its ongoing relevance and value in analytics roles.
 
